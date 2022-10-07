@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rubickai-frontend/static/css/main.5710d2ed.css",
-    "main.js": "/rubickai-frontend/static/js/main.ea180d5d.js",
-    "static/js/787.020eb5ec.chunk.js": "/rubickai-frontend/static/js/787.020eb5ec.chunk.js",
-    "index.html": "/rubickai-frontend/index.html",
-    "main.5710d2ed.css.map": "/rubickai-frontend/static/css/main.5710d2ed.css.map",
-    "main.ea180d5d.js.map": "/rubickai-frontend/static/js/main.ea180d5d.js.map",
-    "787.020eb5ec.chunk.js.map": "/rubickai-frontend/static/js/787.020eb5ec.chunk.js.map"
+    "main.css": "/rubick.ai-frontend/static/css/main.5710d2ed.css",
+    "main.js": "/rubick.ai-frontend/static/js/main.d6a15812.js",
+    "static/js/787.020eb5ec.chunk.js": "/rubick.ai-frontend/static/js/787.020eb5ec.chunk.js",
+    "index.html": "/rubick.ai-frontend/index.html",
+    "main.5710d2ed.css.map": "/rubick.ai-frontend/static/css/main.5710d2ed.css.map",
+    "main.d6a15812.js.map": "/rubick.ai-frontend/static/js/main.d6a15812.js.map",
+    "787.020eb5ec.chunk.js.map": "/rubick.ai-frontend/static/js/787.020eb5ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5710d2ed.css",
-    "static/js/main.ea180d5d.js"
+    "static/js/main.d6a15812.js"
   ]
 }
